@@ -1,0 +1,9 @@
+[package]
+name = "datafaser-rust"
+version = "0.1.0"
+authors = ["Kalle Hallivuori <kalle.hallivuori@futurice.com>"]
+edition = "2018"
+
+[dependencies]
+serde = "1.0.88"
+serde_json = "1.0.38"
